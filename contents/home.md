@@ -1,16 +1,28 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+#### Group Members
 
-#### Email
-sli[at]cumt.edu.cn
+Yian Cheng, Mingqian Ma, Changwen Xu \
 
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+{yianch, mamq, changwenx}[at]umich[dot]edu
 
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+
+#### Project Description
+Accurate thin-film thickness measurement is crucial in various
+high-tech fields, including electronics, optics, and materials sci-
+ence. Traditional methods like Atomic Force Microscopy (AFM)
+and X-ray Reflectometry (XRR) are reliable but face limitations
+such as high cost, contact-induced damage, and inefficiencies in
+multi-layer structures. To overcome these challenges, we propose
+a model-based approach integrating White-Light Interferometry
+(WLI) with Spectral Reflectometry (SR), achieving non-destructive,
+high-accuracy measurements. We propose a deep-learning-based
+model pipeline that incorporates denoising, structure classification
+and layers’ length regression by a hybrid combination of U-Net and
+CNN structures. This research provides a robust, scalable
+framework for thin-film characterization, meeting the stringent
+precision demands of modern industrial applications.
+
+
 
