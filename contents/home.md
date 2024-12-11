@@ -3,9 +3,9 @@
 
 #### Group Members
 
-Yian Cheng, Mingqian Ma, Changwen Xu \
+Yian Cheng, Mingqian Ma, Changwen Xu 
 
-{yianch, mamq, changwenx}[at]umich[dot]edu
+{yianch, mamq, changwenx} [at] umich [dot] edu
 
 
 #### Project Description
